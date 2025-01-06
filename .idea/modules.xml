@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataStructuresandAlgos/Algorithms/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/DataStructuresandAlgos/Algorithms/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructuresandAlgos/Algorithms/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/DataStructuresandAlgos/Algorithms/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicArray/DynamicArray.iml" filepath="$PROJECT_DIR$/DynamicArray/DynamicArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructuresandAlgos/Algorithms/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/DataStructuresandAlgos/Algorithms/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructuresandAlgos/Algorithms/InterpolationSearch/InterpolationSearch.iml" filepath="$PROJECT_DIR$/DataStructuresandAlgos/Algorithms/InterpolationSearch/InterpolationSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaWorkspace.iml" filepath="$PROJECT_DIR$/.idea/JavaWorkspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructuresandAlgos/DataStructures/LinkedLists/LinkedLists.iml" filepath="$PROJECT_DIR$/DataStructuresandAlgos/DataStructures/LinkedLists/LinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructuresandAlgos/DataStructures/Queues/Queues.iml" filepath="$PROJECT_DIR$/DataStructuresandAlgos/DataStructures/Queues/Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructuresandAlgos/Algorithms/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/DataStructuresandAlgos/Algorithms/SelectionSort/SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructuresandAlgos/DataStructures/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/DataStructuresandAlgos/DataStructures/Stacks/Stacks.iml" />
+    </modules>
+  </component>
+</project>
